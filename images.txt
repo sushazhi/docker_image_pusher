@@ -1,5 +1,6 @@
 --platform=linux/arm64 a76yyyy/qiandao:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
+--platform=linux/arm64 6053537/portainer-ce:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 linuxserver/transmission:latest
@@ -8,3 +9,4 @@
 --platform=linux/arm64 jxxghp/moviepilot:latest
 --platform=linux/arm64 adguard/adguardhome:latest
 --platform=linux/arm64 containrrr/watchtower:latest
+--platform=linux/arm64 jianhuayanyu/openwrt-aarch64:latest
