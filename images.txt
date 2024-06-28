@@ -1,5 +1,6 @@
 --platform=linux/arm64 adguard/adguardhome:latest
 --platform=linux/arm64 xhofe/alist:latest
+--platform=linux/arm64 ydkn/cups:latest
 --platform=linux/arm64 gdy666/lucky:latest
 --platform=linux/arm64 metacubex/mihomo:Alpha
 --platform=linux/arm64 irinesistiana/mosdns:latest
