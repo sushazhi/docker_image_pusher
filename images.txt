@@ -2,6 +2,7 @@
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 ydkn/cups:latest
 --platform=linux/arm64 gdy666/lucky:latest
+--platform=linux/arm64 ghcr.io/metacubex/metacubexd:latest
 --platform=linux/arm64 metacubex/mihomo:Alpha
 --platform=linux/arm64 irinesistiana/mosdns:latest
 --platform=linux/arm64 jxxghp/moviepilot:latest
@@ -11,6 +12,5 @@
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/arm64 containrrr/watchtower:latest
---platform=linux/arm64 ghcr.io/metacubex/metacubexd:latest
 --platform=linux/arm64 jianhuayanyu/openwrt-aarch64:latest
 --platform=linux/arm64 6053537/portainer-ce:latest
