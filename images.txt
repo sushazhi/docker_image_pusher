@@ -14,3 +14,4 @@
 --platform=linux/arm64 containrrr/watchtower:latest
 --platform=linux/arm64 jianhuayanyu/openwrt-aarch64:latest
 --platform=linux/arm64 6053537/portainer-ce:latest
+--platform=linux/amd64 alpine:latest
