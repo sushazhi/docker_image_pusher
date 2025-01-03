@@ -10,6 +10,6 @@
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 ddsderek/transmission:latest
 --platform=linux/arm64 containrrr/watchtower:latest
---platform=linux/amd64 alpine:latest
---platform=linux/amd64 linkease/linkease:latest
---platform=linux/amd64 xiaoyaliu/alist:hostmode
+--platform=linux/arm64 alpine:latest
+--platform=linux/arm64 linkease/linkease:latest
+--platform=linux/arm64 xiaoyaliu/alist:hostmode
